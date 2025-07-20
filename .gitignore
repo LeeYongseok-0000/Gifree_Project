@@ -20,5 +20,11 @@ node_modules/
 .vscode/
 .idea/
 
+# Gradle 빌드 결과물
+/build/
+/build/libs/
+/*.jar
+*.jar
+
 
 # 여기에 파일 명을 적으면 해당 파일은 GitHub에 올라가지 않습니다.
