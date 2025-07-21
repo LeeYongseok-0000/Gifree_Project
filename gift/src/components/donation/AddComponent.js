@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { postAdd } from "../../api/DonationBoardApi";
+import { postAdd } from "../../api/donationBoardApi";
 import useCustomMove from "../../hooks/useCustomMove";
 //Quill 에디터 기본 스타일시트(수정시 관리자가 글자 세부 지정 가능토록)npm install react-quill quill
 import Quill from "react-quill";

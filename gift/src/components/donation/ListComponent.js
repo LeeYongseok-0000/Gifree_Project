@@ -1,6 +1,5 @@
-// ListComponent.js
 import { useEffect, useState } from "react";
-import { getList } from "../../api/DonationBoardApi";
+import { getList } from "../../api/donationBoardApi";
 import useCustomMove from "../../hooks/useCustomMove";
 import PageComponent from "../common/PageComponent";
 
